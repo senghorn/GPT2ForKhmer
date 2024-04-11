@@ -1,2 +1,6 @@
-data/seg_kmwiki_data
+gpt2/kmwiki_data
+gpt2/validation_data
 gpt2-env
+gpt2/khmer_tokenizer
+final_model
+final_tokenizer
