@@ -1,6 +1,8 @@
 # GPT2ForKhmer
 
-This repository contains code and training data to fine-tune GPT2 for Khmer language.
+This repository contains code and training data for GPT-2 Pre-Training for Khmer language.
+
+Note: This project is an experimental class project.
 
 ## Set up
 
