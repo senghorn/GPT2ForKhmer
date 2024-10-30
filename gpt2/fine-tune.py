@@ -22,8 +22,6 @@ data_loaded['label'] = np.where(data_loaded['cat'] == 'accident', 1, 0)
 texts = data_loaded['text'].tolist()
 labels = data_loaded['label'].tolist()
 
-
-
 # Tokenize the texts
 encodings = tokenizer(texts, truncation=True, padding=True, max_length=512)
 
